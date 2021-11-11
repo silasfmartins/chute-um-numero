@@ -2,7 +2,7 @@
 
 ![license](https://img.shields.io/github/license/silasfmartins/chute-um-numero)
 
-🖥Aprimorando os conhecimentos de Python
+🖥 Aprimorando os conhecimentos de Python
 
 ## Versionamento / Versioning
 
@@ -18,4 +18,4 @@ Consulte [Releases](https://github.com/silasfmartins/chute-um-numero/releases) p
 
 ## Licença do Projeto/License
 
-[MIT License](https://github.com/silasfmartins/chute-um-numero/blob/master/LICENSE\) © Silas Martins
+[MIT License](https://github.com/silasfmartins/chute-um-numero/blob/master/LICENSE) © Silas Martins
