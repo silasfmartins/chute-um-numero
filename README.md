@@ -1,4 +1,4 @@
-# Projeto Simulador de Dado
+# Projeto Chute um número
 
 ![license](https://img.shields.io/github/license/silasfmartins/chute-um-numero)
 
@@ -10,7 +10,7 @@ Esse projeto não possui um sistema de versionamento.
 
 ## Contribuir / Contributing
 
-Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/simulador-de-dado/blob/master/Contributing.md)
+Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/chute-um-numero/blob/master/Contributing.md)
 
 ## Histórico / History
 
