@@ -4,6 +4,15 @@
 
 🖥 Aprimorando os conhecimentos de Python
 
+Esse projeto faz com que o usuário tente acertar um número que escolher de 10 a 100
+
+## Requisitos para Jogar
+É necessário ter um editor de código (VsCode, Pycharm...) para rodar a aplicação via terminal.
+
+## Como funciona a aplicação
+Essa aplicação só funciona via terminal, executando nos editores de códigos Pycharm ou no VsCode, por exemplo. Para isso você pode baixar o código e testar.
+
+
 ## Versionamento / Versioning
 
 Esse projeto não possui um sistema de versionamento.
